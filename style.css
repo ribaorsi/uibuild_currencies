@@ -88,8 +88,6 @@ body {
     display: flex;
     flex-wrap: wrap;
 
-    position:absolute;
-
     margin: 30px;
     
     align-items: center;
@@ -102,10 +100,8 @@ body {
 
 .card {    
     flex-basis: auto;
-
-    margin: 80px 30px 110px;    
-    padding: 40px;
     
+    padding: 40px;
     width: 240px;
     background-color: #fff;
     
